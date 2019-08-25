@@ -8,7 +8,7 @@ CLAPEER is an example module for
 In order to build your workflows using CLIJ in Apeer, clone this repository.
 
 ```bash
-git clone https://github.com/clij/clapeer
+git clone https://github.com/clij/clij-apeer-template
 ```
 
 Modify the code according to your needs. If you change the jar filename in the pom.xml, 

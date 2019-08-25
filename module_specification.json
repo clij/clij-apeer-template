@@ -14,5 +14,13 @@
     "ui": {
         "inputs": {},
         "outputs": {}
+    },
+    "requirements": {
+        "hardware": {
+            "gpu": {}
+        },
+        "network": {
+            "internet_access": {}
+        }
     }
 }

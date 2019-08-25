@@ -1,5 +1,5 @@
-# CLAPEER
-CLAPEER is an example module for 
+# clij-apeer-template
+This is an example module for 
 [Apeer](https://apeer.com)
  running GPU-accelerated image proessing using 
 [CLIJ](https:///clij.github.io).

@@ -1,0 +1,18 @@
+{
+    "spec": {
+        "inputs": {
+            "input_image": {
+                "type:file": {}
+            }
+        },
+        "outputs": {
+            "output_image": {
+                "type:file": {}
+            }
+        }
+    },
+    "ui": {
+        "inputs": {},
+        "outputs": {}
+    }
+}

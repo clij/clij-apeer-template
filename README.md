@@ -1,4 +1,4 @@
-# clij-apeer-template
+# clij-apeer-template (in development)
 This is an example module for 
 [Apeer](https://apeer.com)
  running GPU-accelerated image proessing using 

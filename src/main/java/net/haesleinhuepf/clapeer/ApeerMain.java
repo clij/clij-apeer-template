@@ -1,4 +1,4 @@
-package com.apeer.modules;
+package net.haesleinhuepf.clapeer;
 
 import com.apeer.sdk.ApeerDevKit;
 import com.apeer.sdk.ApeerEnvironmentException;
@@ -6,6 +6,10 @@ import com.apeer.sdk.ApeerInputException;
 import com.apeer.sdk.ApeerOutputException;
 import net.haesleinhuepf.clapeer.GaussianBlur;
 
+/**
+ * This is the main method executed from the docker container. If you rename the class, you need to update pom.xml.
+ * The code originates from an example module provided by Apeer via apeer.com.
+ */
 public class ApeerMain {
     public static void main(String[] args) {
         try {

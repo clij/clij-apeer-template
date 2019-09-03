@@ -8,11 +8,18 @@ import net.haesleinhuepf.clij.clearcl.ClearCLBuffer;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * This is a template workflow executing a Gaussian blur on an input image.
+ *
+ * Author: @haesleinhuepf
+ *         September 2019
+ */
 public class GaussianBlur {
     public Map<String, Object> run(String inputImagePath) {
         var outputs = new HashMap<String, Object>();
 
-        System.out.println("clapeer");
+        // some command line output for debugging
+        System.out.println("clij-apeer-template");
         System.out.println(CLIJ.clinfo());
 
         ImagePlus imp = IJ.openImage(inputImagePath);

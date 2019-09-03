@@ -4,6 +4,8 @@ This repository contains an example module for
  running GPU-accelerated image proessing using 
 [CLIJ](https:///clij.github.io).
 
+![Image](images/clij_apeer_screenshot.png)
+
 ## Usage
 In order to build your workflows using CLIJ in Apeer, clone this repository and sync it with the folder you downloaded from Apeers git.
 

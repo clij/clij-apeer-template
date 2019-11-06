@@ -18,4 +18,6 @@ Modify the code according to your needs. For example, you can enter your particu
 
 If you change the jar filename in the pom.xml, keep in mind you also need to change it in the dockerfile accordingly.
 
-[Back to CLIJ documentation](http://clij.github.io)
+[Back to CLIJ documentation](https://clij.github.io/)
+
+[Imprint](https://clij.github.io/imprint)
